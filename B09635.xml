@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rules and orders made by the Vice-Chancellor of the Vniversity of Oxford and Iustices of Peace for the good and safety of the Vniversity, city and county of Oxford whereas there is a dayly encrease of the plague in the city of Lodon, the suberbs and parts adjacent by reason whereof very many persons have of late and dayly doe withdraw themselves from their respective habitations ...</title>
+            <author>University of Oxford.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09635</idno>
+            <idno type="STC">Wing O962</idno>
+            <idno type="STC">ESTC R181267</idno>
+            <idno type="EEBO-CITATION">62369530</idno>
+            <idno type="OCLC">ocm 62369530</idno>
+            <idno type="VID">188048</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09635)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188048)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2853:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rules and orders made by the Vice-Chancellor of the Vniversity of Oxford and Iustices of Peace for the good and safety of the Vniversity, city and county of Oxford whereas there is a dayly encrease of the plague in the city of Lodon, the suberbs and parts adjacent by reason whereof very many persons have of late and dayly doe withdraw themselves from their respective habitations ...</title>
+                  <author>University of Oxford.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>University of Oxford --  History --  Sources --  Early works to 1800.</term>
+               <term>Plague --  England --  London --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188048:1" rendition="simple:additions"/>
+            <head>RULES and ORDERS MADE BY THE VICE-CHANCELLOR of the Vniverſity of <hi>OXFORD,</hi> and Iuſtices of Peace, for the Good and Safety of the Vniverſity, City, and County of <hi>OXFORD.</hi>
+            </head>
+            <p>VVHEREAS there is a dayly encreaſe of the Plague in the City of London, the Suburbs, and Parts Adjacent; by reaſon whereof very many Perſons have of late, and dayly doe withdraw themſelves from their reſpective Habitations; And either in expectation of Gain, of upon conſiderations of freindſhip or Alliance are received in ſeverall Parts of this County, whereby the Infection has been diſperſt into many Townes &amp; Villages thereof to their ruine and impoveriſhing: as alſo the great and apparent danger of the Univerſity and City of Oxford, and the Inhabitants of this County in generall, which are yet not infected: And whereas in probability his Majeſtie intends to reſide and keep his Court in the City of Oxford for ſome part of this winter; As alſo to hold his Parliament there: We the Vicechancellour of the ſaid Univerſity, and Juſtices of the Peace of the ſaid County; taking the premiſes into our ſerious conſi<g ref="char:EOLhyphen"/>deration, and having in Our view the dreadfull effects of negligence in the preſent dangerous diſeaſe; as we are by the laws of God, of Nature, and this Realm thereto ſufficiently authoriz'd; and alſo inſtructed and impowred by the truſt repoſed in us by his Sacred Majeſtie our Soveraign Lord the King, who deſires nothing more than the health and ſafety of His People; and in purſuance of thoſe great Ends of Publique good, which are ever to be preferr'd before any private intereſt: have thought fit to Order and Publiſh; and doe hereby order and publiſh, as follows.</p>
+            <list>
+               <item>
+                  <hi>I.</hi> That no Inn-keeper, Alehouſe-keeper Victualer or private Perſon whatſoever living in this County ſhal harbour, lodge or entertain in any of their Houſes, any Perſon or Perſons that come from London, or any other Place whatſoever, unleſſe ſuch Perſon or Perſons ſhall bring with him, or them an authentick Certificate (to be allowed by he cheif Magiſtrate of towns corporate, or the Miniſter and Conſtables of Villages reſpectively) that they came not from any infected place or houſe; and in caſe of ſuch Certificate, ſhall receive them for a night only, and not otherwiſe: upon pain that every Inn-keeper, Ale-houſe keeper, or Victualler, doeing contrary to the premiſes, be ſuppreſſed from farther entertaining, or victualing: and their houſes to be ſhut up with the Inhabitants therein, and alſo with the Perſons they ſo entertaine, untill they ſhall be opened again by publick authority; and likewiſe upon pain to be taken and dealt with, as enemies to the publique ſafety.</item>
+               <item>
+                  <hi>II.</hi> That no other perſon or perſons, living within this County, ſhall entertain any of their Friends, Kindred, Children, or other perſon or perſons, without ſuch Certificate as aforſaid, to be al<g ref="char:EOLhyphen"/>lowed as aforeſaid, under pain that their Houſes be ſhut up; and the perſon or perſons they ſhall entertain with them, and their Families therein, not to be opened again, but by conſent and allowance of the two next Juſtices of the Peace to the ſaid Houſe: And further, to be proceeded againſt as diſturbers of the Peace and Safety of this County.</item>
+               <item>
+                  <hi>III.</hi> That in caſe any perſon or perſons that is are ſo to be ſhut up as aforeſaid, ſhall refuſe obſtinately to ſubmit, or ſhall reſiſt the Officers in doing their office to that purpoſe, ſuch perſon or per<g ref="char:EOLhyphen"/>ſons ſhall be, by the Officers, compelled to keep in the ſaid Houſe by force; and in caſe of recovery or eſcape from Infection, ſhall be carried o the Goal, there to remain without Bail or Mainprize, until they be releaſed by publick Order.</item>
+               <item>
+                  <hi>IV.</hi> That no perſon or perſons whatſoever, ſhall preſume to come to Church, or to any Fair or Market, or publick Meeting whatſoever, forth of any Houſe that is ſhut up, or known to be Infected with the Plague, till they have allowance under the Hands and Seals of two the next Juſtices of he Peace. And that no perſon or perſons bring any Wares, Goods or Merchandizes, to any Fair or Market, forth of any ſuch Town Corporate, or Place whatſoever, unleſs ſuch Perſon bring a Certificate from the Major or Chief Officer of ſuch Town Corporate, or the Miniſter and Conſtable of ſuch Place or Village, that the ſame Wares, Goods or Merchandize, came not from any Infected Houſe, or from any Infected Perſon, under the pain of being proceeded againſt as an Enemy to the Publick Safety.</item>
+               <item>
+                  <hi>V.</hi> That none be permitted, during the time of Gods Viſitation upon this Nation, to keep any Wakes or Cuſtomary Feaſts, or publick Meetings for any Games or Paſtimes whatſoever, eiher up<g ref="char:EOLhyphen"/>on Sundays, Holy-days or Faſt-days, or any Week-days: And in caſe any Perſon ſhall preſume to meet at any ſuch Wakes, Feaſts or Paſtimes, that they be proceeded againſt as Rioters and Diſturbers of the Peace and Safety of this County.</item>
+               <item>
+                  <hi>VI.</hi> That no Pedlers, petty Chapmen, Tinkers, Hat-dreſſers, Fidlers, Beggars, or other Vagabonds, be permitted or ſuffered to paſs or wander up and down this County from place to place; nor none to beg out of their own Pariſhes, upon the Penalties that are by the Statutes of the Realm to be inflicted upon the Conſtables, and other Officers, that neglect their duty therein.</item>
+               <item>
+                  <hi>VII.</hi> That no perſon or perſons preſume to go to viſit or converſe with any perſon or perſons Infected, or Shut up upon ſuſpicion of Infection, or breach of theſe Orders, unleſs ſuch as ſhall be ap<g ref="char:EOLhyphen"/>pointed to attend ſuch perſons as are ſhut up; upon pain to be ſhut up themſelves, in the Houſes of ſuch perſons as they converſe withall.</item>
+               <item>
+                  <hi>VIII.</hi> That ſtrict watch and ward be kept in every Towne, Pariſh, Village and Hamlet within this County, eſpecially upon Roades, and in Townes and Villages, where Innes, Alehouſes and Vi<g ref="char:EOLhyphen"/>ctualling houſes are, to ſee theſe order put in execution, and where occaſion ſhall be or need requires, that double watch and ward be kept, and the Guardes inforced; which ſhall be done at the publique Charge of the place where ſuch watch is kept: and all this upon the utmoſt paines that the Law can Inflict for non performance thereof.</item>
+               <item>
+                  <hi>IX.</hi> That no Perſon or Perſon be permited to come or repaire to the Univerſity or City of Oxford by land or water from London, Henly upon Thames, Wallingford, or any other Towne or place infected, nor to bring any Wares or Goods therehence during the time of their being viſited upon the paines aforeſaid.</item>
+               <item>
+                  <hi>X.</hi> That where any place Towne or Village is Infected, and there needs Warders, Searchers, Buriers, and Keepers to be appointed, the Cheif Magiſtrate or the next Juſtice of the Peace to the place Infected, is deſired to appoint ſuch as he ſhall think fit out of ſuch Perſons as ſhall be nominated by the Conſtables of the Pariſh or Towne Infected, or others: and to give them their Oathes for true and diligent ſervice in their ſeverall places they ſhall be appointed to, and for the preſervation of the publique good.</item>
+               <item>
+                  <hi>XI.</hi> Whereas ſeveral perſons, having left their places of abode, have ſecretly intruded and crept into divers Towns Corporate and Villages, other places of this County, and there reſide and attempt to ſettle themſelves: All Conſtables, and Overſeers of the Poor in each Pariſh, are hereby required to bring within a Week after the date hereof, to the next Juſtice of the Peace, in Writing, the names of ſuch Perſons ſo intruding; and afterwards at the end of every Moneth, during the time of the preſent Danger, that they may be proceeded againſt according to Law.</item>
+            </list>
+            <p>And to the End theſe orders may ſpeedily be made known; and that no perſon may pretend ignorance of them: It is ordered, that the ſame be forthwith printed, and publiſhed the next Market day in the City of Oxford, and in every Market Towne of the ſaid County on their reſpective next Market days immediately following the date hereof: and that warrants may be iſſued forth under the hands and ſeales of the Juſtices of Peace or ſome of them, to the High-Conſtables of the ſeverall hundreds within the County: and Chief Officer of every corporation, requiring them to ſend printed cop<g ref="char:EOLhyphen"/>pies of them to the peti-Conſtables of each Townſhip and Pariſh in the ſaid County reſpectively; to the end they may be put in execution with all ſpeed, care, and diligence.</p>
+            <closer>
+               <dateline>
+                  <date>Given under our hands this 23d. day of Auguſt in the 17th year of the reign of our Soveraigne Lord King Charles the ſecond: <hi>Anno<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Domini</hi> 1665.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
